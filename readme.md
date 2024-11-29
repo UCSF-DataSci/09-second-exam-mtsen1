@@ -78,4 +78,4 @@ The effect size analysis along with the boxplots reveal the greatest visit cost 
 
 ## Question 4
 
-Each plot is made with `matplotlib` and some with the addition of `seaborn`. 
+Each plot is made with `matplotlib` and some with the addition of `seaborn`. For the plots, outliers were kept in the data for further observation. 
